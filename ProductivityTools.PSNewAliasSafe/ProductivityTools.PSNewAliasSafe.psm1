@@ -1,6 +1,3 @@
-<#
-	My Function
-#>
 function New-AliasSafe {
 	[cmdletbinding()]
 	param([string]$Name, [string]$Value)
