@@ -28,8 +28,8 @@
   </PropertyGroup>
   <ItemGroup />
   <ItemGroup>
-    <Compile Include="ProductivityTools.PSNewAliasSafe.psd1" />
-    <Compile Include="ProductivityTools.PSNewAliasSafe.psm1" />
+    <Compile Include="ProductivityTools.NewAliasSafe.psd1" />
+    <Compile Include="ProductivityTools.NewAliasSafe.psm1" />
     <Compile Include="Runner.ps1" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
